@@ -1,4 +1,4 @@
-# cruise-control
+# Cruise-control
 Cruise control system use PID control theory and implemented by Python
 # My first project!
 
