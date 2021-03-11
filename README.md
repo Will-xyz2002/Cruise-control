@@ -1,7 +1,6 @@
 # Cruise-control
 Cruise control system use PID control theory and implemented by Python
-# My first project!
-
+# My first step
 # Aim of the project
 The aim of this piece is record my learning of PID control and show the basic knowledge which is need for understanding PID control.
 # What's this project
